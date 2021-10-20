@@ -1,10 +1,10 @@
 ## Olá! Eu sou a Livia ☺
-- 👷‍♀️ Engenheira civil
+- 👷‍♀️ Engenheira Civil
 - 💻 Futura desenvolvedora front-end
-- ✏ Estudando HTML, CSS, JavaScript
-- 📚 Irei estudar: 
-- 🗂 Conhecimentos:
-- 🎨 Interesses: 
+- ✏ Estudando: HTML, CSS, JavaScript
+- 📚 Irei estudar: React, TypeScript, Angular
+- 🗂 Conhecimentos: HTML, CSS, Java, Metodologias ágeis
+- 🎨 Interesses: Desenvolvimento Web, Design Web, UX e UI Design
 
 ##
 
