@@ -8,11 +8,12 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">  
+  <a href="https://github.com/livia-somera">  
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livia-somera&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div>
+  <a href="https://github.com/livia-somera">
   <img alt="Livia-CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
