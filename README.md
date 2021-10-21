@@ -5,6 +5,7 @@
 - 📚 Irei estudar: React, TypeScript, Angular
 - 🗂 Conhecimentos: HTML, CSS, Java, Metodologias ágeis
 - 🎨 Interesses: Desenvolvimento Web, Design Web, UX e UI Design
+- 📐Ferramentas: Sublime, VisualCode, Figma, NetBeans
 
 ##
 
