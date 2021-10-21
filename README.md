@@ -13,6 +13,8 @@
   <a href="https://github.com/livia-somera">  
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livia-somera&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  <br>
 
 <div>
   <a href="https://github.com/livia-somera">
